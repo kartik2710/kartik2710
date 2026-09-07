@@ -129,6 +129,7 @@ Working on backend development with a focus on:
 
 </p>
 ---
+
 ## 🚀 Featured Projects
 
 ### 🔹 GrowthLadder
